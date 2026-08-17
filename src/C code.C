@@ -54,7 +54,7 @@ void loop()
   Serial.print(" %\t");
   Serial.print("Average Temperature: ");
   Serial.print(tAvg);
-  Serial.println(" Â°C");
+  Serial.println(" °C");
 
   updateHeaterState(tAvg);
   updateCoolerState(tAvg);
