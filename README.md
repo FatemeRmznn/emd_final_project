@@ -323,12 +323,10 @@ The control logic is implemented using three separate state machines. Each machi
 
 ---
 
-📞 Contact
-
-Name: Fatemeh Ramazanian
-Email: fatemeheramazanian.ceg@gmail.com
-LinkedIn: https://www.linkedin.com/in/fatemeh-ramazanian-351732231/
-GitHub: https://github.com/FatemeRmznn
+**Name:** Fatemeh Ramazanian  
+**Email:** fatemeheramazanian.ceg@gmail.com  
+**LinkedIn:** [linkedin.com/in/fatemeh-ramazanian-351732231](https://www.linkedin.com/in/fatemeh-ramazanian-351732231/)  
+**GitHub:** [github.com/FatemeRmznn](https://github.com/FatemeRmznn)  
 
 Feel free to reach out for collaboration, questions, or feedback.
 
