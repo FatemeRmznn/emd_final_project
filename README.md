@@ -119,33 +119,26 @@ Low --> Off H > 85% Humidifier turns OFF
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
-
-emd_final_project/
-│
-├── README.md                           # Project documentation
-│
-├── src/
-│   └── EMD_Final_Project.ino          # Main Arduino source code (C)
-│
-├── proteus/
-│   └── EMD_Final_Project.pdsprj       # Proteus simulation file
-│
-├── state-machine/
-│   ├── heater_state_machine.png       # Heater state diagram
-│   ├── cooler_state_machine.png       # Cooler state diagram
-│   └── humidifier_state_machine.png   # Humidifier state diagram
-│
-└── images/
-    ├── simulation_overview.png        # Overall simulation view
-    ├── simulation_heater_low.png      # Heater Low state
-    ├── simulation_heater_high.png     # Heater High state
-    ├── simulation_cooler_low.png      # Cooler Low state
-    ├── simulation_cooler_high.png     # Cooler High state
-    ├── simulation_humidifier_low.png  # Humidifier Low state
-    └── simulation_humidifier_high.png # Humidifier High state
-
+- `emd_final_project/`
+  - `README.md` - Project documentation
+  - `src/`
+    - `EMD_Final_Project.ino` - Main Arduino source code (C)
+  - `proteus/`
+    - `EMD_Final_Project.pdsprj` - Proteus simulation file
+  - `state-machine/`
+    - `heater_state_machine.png` - Heater state diagram
+    - `cooler_state_machine.png` - Cooler state diagram
+    - `humidifier_state_machine.png` - Humidifier state diagram
+  - `images/`
+    - `simulation_overview.png` - Overall simulation view
+    - `simulation_heater_low.png` - Heater Low state
+    - `simulation_heater_high.png` - Heater High state
+    - `simulation_cooler_low.png` - Cooler Low state
+    - `simulation_cooler_high.png` - Cooler High state
+    - `simulation_humidifier_low.png` - Humidifier Low state
+    - `simulation_humidifier_high.png` - Humidifier High state
 
 ---
 
@@ -328,7 +321,6 @@ The control logic is implemented using three separate state machines. Each machi
 · cooler_state_machine.png
 · humidifier_state_machine.png
 
-> 📌 **Note:** Simulation images and state machine diagrams will be added in the next update.
 ---
 
 📞 Contact
