@@ -119,7 +119,7 @@ Low --> Off H > 85% Humidifier turns OFF
 
 ---
 ```
-## 📁 Project Structure
+📁 Project Structure
 emd_final_project/
 ├── README.md # Project documentation
 ├── src/
