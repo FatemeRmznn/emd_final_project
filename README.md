@@ -1,9 +1,9 @@
-Intelligent HVAC Control System
+# Intelligent HVAC Control System
 
-https://img.shields.io/badge/Arduino-Uno-blue
-https://img.shields.io/badge/Proteus-8.0-orange
-https://img.shields.io/badge/Language-C-green
-https://img.shields.io/badge/Status-Completed-brightgreen
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
+![Proteus](https://img.shields.io/badge/Proteus-8.0-orange)
+![Language](https://img.shields.io/badge/Language-C-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
